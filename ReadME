@@ -1,0 +1,2 @@
+In this projects we use Linear Regression, Lasso and Ridge Regression , Random Forest and Polynomial Features to find the best model so that we can find a cost of insurance.
+The cost of Insurance is dependent on Region, Sex, smoking habit, number of children ,bmi and Age
